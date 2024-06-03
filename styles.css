@@ -1,0 +1,35 @@
+/* Base styles for all breakpoints */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.responsive-text {
+    color: blue; /* Default color for desktop and larger screens */
+    transition: color 0.3s ease;
+}
+
+/* Tablet breakpoint */
+@media (max-width: 768px) {
+    .responsive-text {
+        color: green; /* Override color for tablet */
+    }
+}
+
+/* Mobile landscape breakpoint */
+@media (max-width: 480px) {
+    .responsive-text {
+        color: orange; /* Override color for mobile landscape */
+    }
+}
+
+/* Mobile portrait breakpoint */
+@media (max-width: 320px) {
+    .responsive-text {
+        color: red; /* Override color for mobile portrait */
+    }
+}
