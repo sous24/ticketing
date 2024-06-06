@@ -13,7 +13,8 @@
         "Description": "Join us for a special Monthly Mocha dedicated to Mental Health Awareness.",
         "Type": "Social",
         "Kid friendly": true,
-        "Online": false
+        "Online": false,
+        "ImageURL": "https://github.com/sous24/ticketing/blob/main/images/Untitled%20design%20(13).png"
     },
     {
         "Event Title": "MASJID AN-NAWAWI 6TH CONFERENCE",
@@ -29,7 +30,8 @@
         "Description": "We encourage all brothers, sisters, and families to attend and benefit!",
         "Type": "Seminar",
         "Kid friendly": true,
-        "Online": false
+        "Online": false,
+        "ImageURL": "https://github.com/sous24/ticketing/blob/main/images/Untitled%20design%20(14).png"
     },
     {
         "Event Title": "Sisters' Eid Rendezvous",
@@ -45,7 +47,8 @@
         "Description": "Join us for a beautiful evening filled with duff entertainment, knowledge-based",
         "Type": "Social",
         "Kid friendly": false,
-        "Online": false
+        "Online": false,
+        "ImageURL": "https://github.com/sous24/ticketing/blob/main/images/Untitled%20design%20(15).png"
     },
     {
         "Event Title": "Another Event",
