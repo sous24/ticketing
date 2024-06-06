@@ -1,0 +1,6 @@
+﻿Event Title,Start Date,End Date,Start Time,End Time,Location,City,Country,Free,Cost,Description,Type,Kid friendly,Online
+Monthly mocha ,05/06/2024,05/06/2024,10:00,12:00,KIC,London,UK,TRUE,NULL,Join us for a special Monthly Mocha dedicated to Mental Health Awareness.,Social,TRUE,FALSE
+MASJID AN-NAWAWI 6TH CONFERENCE,01/06/2024,01/06/2024,13:00,22:00,Masjid An-Nawawi,London,UK,TRUE,NULL,"We encourage all brothers, sisters, and families to attend and benefit!",Seminar,TRUE,FALSE
+Sisters' Eid Rendezvous,18/06/2024,18/06/2024,16:00,20:00,HA2 ,London,UK,FALSE,25,"Join us for a beautiful evening filled with duff entertainment, knowledge-based",Social,FALSE,FALSE
+Another Event,19/08/2024,19/09/2024,10:00,18:00,Harrow,London,UK,FALSE,149,"New course starting online, available anywhere",Course,FALSE,TRUE
+Short sisters reminder,10/06/2024,10/06/2024,18:00,20:00,Virtual,London,UK,TRUE,NULL,A short beneficial reminder serious happening this day.,Lecture,TRUE,TRUE
